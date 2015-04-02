@@ -1,4 +1,4 @@
-package com.umpay.broadcasttutorial;
+package com.rgz.broadcasttutorial;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
